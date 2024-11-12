@@ -1,0 +1,4 @@
+model\ConsumoAgua.class
+com\mycompany\actividad11proyecto2\JakartaRestConfiguration.class
+com\mycompany\actividad11proyecto2\resources\JakartaEE11Resource.class
+controller\CobroAguaServlet.class
